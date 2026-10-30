@@ -50,5 +50,10 @@ npm run build
 ### AI USAGE - 
  I used Ai to understand the Page Layout Problem and Architectural Decision like should i use routing based architecture or just use usestate hook and change the page state based on the user  click so later on i used Routing for scaling . Rather than that like Page Aesthetic, Font Selection, coding  everything is written by hand manually .
 
+### Note - 
+some Project links May not work so i am working on them i will fix it .
+Made With Love from HackClub Ari - 💖
+
+
 
 
