@@ -1,5 +1,9 @@
 # My Personal Site 
 so hi welcome to my personal site repo in my website  i introduce myself to the world and put the things that intrests me as well as those things which i am curious about .
+<img width="1900" height="887" alt="image" src="https://github.com/user-attachments/assets/cdcba213-5bce-4c74-bb8f-962575d08dea" />
+<img width="1858" height="950" alt="image" src="https://github.com/user-attachments/assets/437e2b24-4047-483f-b4ad-4c6bfc559bf1" />
+
+
 ## Why i made this ?
 Only to Master React and tailwind well with js .
 # Tech Stack -
@@ -42,7 +46,7 @@ npm run dev
 npm run build
 ```
 ### AI USAGE - 
-
+ I used Ai to understand the Page Layout Problem and Architectural Decision like should i use routing based architecture or just use usestate hook and change the page state based on the user  click so later on i used Routing for scaling . Rather than that like Page Aesthetic Font Selection coding  everything is written by hand manually .
 
 
 
