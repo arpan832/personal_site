@@ -1,5 +1,5 @@
 # My Personal Site 
-so hi welcome to my personal site repo here i introduce myself to the world and put the things that intrests me as well as those things which i am curious about .
+so hi welcome to my personal site repo in my website  i introduce myself to the world and put the things that intrests me as well as those things which i am curious about .
 ## Why i made this ?
 Only to Master React and tailwind well with js .
 # Tech Stack -
@@ -20,7 +20,29 @@ For The main Page where i have stored my intro the My Hobbies Section . There to
 ## My Fix - 
 So the mess was already there but now to cover it all up i used **lg** for big screens and **sm** for smaller screens so that the page changes become dynamic and also deleted all the unnecessary hardcoded sizes and positions so that the page becomes responsive and at last with a ton of trial and error i finally made it 
 ## My Learnings - 
-1. To Make the Pages Responsive never use hardcoded positions such as top: bottom:
+1. To Make the Pages Responsive never use hardcoded positions such as top: bottom: let the page flow naturally .
 2. To make the Project Scaleable Name your components with their exact task to remember where it belongs to.
 3. Make it exist first modify it later
+
+### Developement 
+1. clone the source code to your device 
+```sh
+https://github.com/arpan832/personal_site && cd personal_site 
+```
+2. Install Project Dependencies
+```sh
+npm install 
+```
+3.Run the project 
+```sh
+npm run dev
+```
+4.Build the site to 'dist/'
+```sh
+npm run build
+```
+### AI USAGE - 
+
+
+
 
