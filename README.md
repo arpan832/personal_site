@@ -20,3 +20,7 @@ For The main Page where i have stored my intro the My Hobbies Section . There to
 ## My Fix - 
 So the mess was already there but now to cover it all up i used **lg** for big screens and **sm** for smaller screens so that the page changes become dynamic and also deleted all the unnecessary hardcoded sizes and positions so that the page becomes responsive and at last with a ton of trial and error i finally made it 
 ## My Learnings - 
+1. To Make the Pages Responsive never use hardcoded positions such as top: bottom:
+2. To make the Project Scaleable Name your components with their exact task to remember where it belongs to.
+3. Make it exist first modify it later
+
